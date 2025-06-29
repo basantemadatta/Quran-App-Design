@@ -3,7 +3,7 @@ Figma-based design for Quran app UI/UX
 
 
 ##  View Design on Figma  
-[Click here to open the Figma file]([https://www.figma.com/design/82ny3Y2vmus3jRKFZV1IFD/Quran-Application-Day-Night-Mode?node-id=0-1&t=YJPZj91zWZGQ401u-1])
+[Click here to open the Figma file](https://www.figma.com/design/82ny3Y2vmus3jRKFZV1IFD/Quran-Application-Day-Night-Mode?node-id=0-1&t=YJPZj91zWZGQ401u-1)
 
 
 
